@@ -13,7 +13,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "Subtitle"
+  subtitle = "Information is just bits of data. Knowledge is putting them together. Wisdom is transcending them." 
   brand = "JCB"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
